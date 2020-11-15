@@ -372,7 +372,7 @@ The data collected can be found in this repository at [201504394.xlsx](https://g
 
 ### 100 days of total lockdown against COVID-19
 Italy, one of the  most affected countries by the new coronavirus, had to leave its population in a complete lockdown, according to [COVID-19 pandemic lockdown in Italy](https://en.wikipedia.org/wiki/COVID-19_pandemic_lockdown_in_Italy) the intensive lockdown began March 9 of 2020 and ended May 18 in same year, two months, one week and two days, resulted in about 60 million people quarantined, this drastic measure lowered the new incoming cases as the graphic represents.
-![Italy Lockdown Data](/img/201403703.png)
+![Italy Lockdown Data](img/201403703.png)
 as we can see the number of cases decreased, what a houndred days of lockdown can do for fighting COVID?
 
 Machine learning can give us the tools to make this predictions, using a neural_network (a library from scikit learn) an MLPClassifier we can make this possible, according to ![sklearn.neural_network.MLPClassifier](https://scikit-learn.org/stable/modules/generated/sklearn.neural_network.MLPClassifier.html) "MLPClassifier trains iteratively since at each time step the partial derivatives of the loss function with respect to the model parameters are computed to update the parameters." comparing accurancy to a number from 0 to 1 when 1 its complety accurate whet impossible to get, the recomended number is 0.95 but depends of the number of data and the power of the hardware when the program is running this could take a lot of time to achive, in order to give a number of cases in the minimum of time a socre of 0.80 is setted, giving us the number of
