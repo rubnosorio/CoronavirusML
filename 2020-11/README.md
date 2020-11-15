@@ -372,7 +372,7 @@ The data collected can be found in this repository at [201504394.xlsx](https://g
 
 ### 100 days of total lockdown against COVID-19
 Italy, one of the  most affected countries by the new coronavirus, had to leave its population in a complete lockdown, according to [COVID-19 pandemic lockdown in Italy](https://en.wikipedia.org/wiki/COVID-19_pandemic_lockdown_in_Italy) the intensive lockdown began March 9 of 2020 and ended May 18 in same year, two months, one week and two days, resulted in about 60 million people quarantined, this drastic measure lowered the new incoming cases as the graphic represents.
-[Italy Lockdown Data](img/201403703.png)
+![Italy Lockdown Data](img/201403703.png)
 
 
 as we can see the number of cases decreased, what a houndred days of lockdown can do for fighting COVID?
