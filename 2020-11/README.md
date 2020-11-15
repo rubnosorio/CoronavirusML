@@ -380,7 +380,7 @@ as we can see the number of cases decreased, what a houndred days of lockdown ca
 Machine learning can give us the tools to make this predictions, using a neural_network (a library from scikit learn) an MLPClassifier we can make this possible, according to [sklearn.neural_network.MLPClassifier](https://scikit-learn.org/stable/modules/generated/sklearn.neural_network.MLPClassifier.html) "MLPClassifier trains iteratively since at each time step the partial derivatives of the loss function with respect to the model parameters are computed to update the parameters." comparing accurancy to a number from 0 to 1 when 1 its complety accurate whet impossible to get, the recomended number is 0.95 but depends of the number of data and the power of the hardware when the program is running this could take a lot of time to achive, in order to give a number of cases in the minimum of time a socre of 0.80 is setted, script  giving us the number of 
 [201403703.py](https://github.com/LuisEspino/CoronavirusML/blob/main/2020-11/src/201403703.py).
 
-|     Days         | Number of posible cases | 
+|     Days         | Number of possible cases | 
 | ---------------- | ----------------------- |
 | 100	            | 43                      | 
 | 150              |  35                  | 
